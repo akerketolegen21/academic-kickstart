@@ -21,31 +21,31 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "Deep Learning Specialization"
+  url = "https://www.coursera.org/specializations/deep-learning"
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/RTPXFZMQ9PES"
+  date_start = "2018-02-23"
   date_end = ""
-  description = ""
+  description = """
+  * Neural Networks and Deep Learning
+  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  * Structuring Machine Learning Projects
+  * Convolutional Neural Networks
+  * Sequence Models
+  """
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Parallel, Concurrent, and Distributed Programming in Java Specialization"
+  url = "https://www.coursera.org/specializations/pcdp"
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/8KW7SJGS7TPU"
+  date_start = "2017-12-16"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  description = """
+  * Parallel Programming in Java
+  * Concurrent Programming in Java
+  * Distributed Programming in Java
+  """
 
 +++
