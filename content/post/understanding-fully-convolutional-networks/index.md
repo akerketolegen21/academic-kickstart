@@ -601,6 +601,7 @@ In fcn-voc8s, one more intermediate resolution `pool3` are incorpoeated. From fc
 
 ## Conclusion
 We cover fully convolutional networks in great detail. To summarize, we have learend:
+
 * Semantic segmentation requires dense pixel-level classification while image classification is only in image-level. 
 * Fully convolutional networks (FCNs) are a general framework to solve semantic segmentation.
 * The key to generate outputs with the same size as the input in FCNs is to use deconvolution layers, which are just convolutional layers with input and output swapped.
