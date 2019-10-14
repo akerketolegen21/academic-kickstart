@@ -16,10 +16,10 @@ baseurl = "https://jianchao-li.github.io"
 copyright = "&copy; {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-149941944-1"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "jianchaoli"
 
 ############################
 ## Advanced options below ##
